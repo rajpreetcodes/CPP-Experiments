@@ -1,3 +1,5 @@
+//Write a function that takes two integer parameters x & y, and returns the result x^Y (Don't use inbuilt function pow())
+. (Don’t use pow( ))
 #include<iostream>
 using namespace std;
 void pow(int x,int y)
