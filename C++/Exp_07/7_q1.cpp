@@ -1,3 +1,4 @@
+//Write a function that takes one integer parameter as a year, and displays its leap year or not. 
 #include<iostream>
 using namespace std;
 void ly(int year)
