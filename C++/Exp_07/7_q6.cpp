@@ -1,5 +1,5 @@
-//Write user defined function “search” to search element is present in 1D array or not. Search function accepts
-array and key to search as parameters. 
+/*Write user defined function “search” to search element is present in 1D array or not. Search function accepts
+array and key to search as parameters.*/
 #include<iostream>
 using namespace std;
 void search(int a[100],int n,int n1,int i)
