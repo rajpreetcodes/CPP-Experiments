@@ -1,3 +1,5 @@
+/*Write a menu driven program to compute sum of digits of a number, to find reverse of a number, to count
+number of digits by writing three different functions with parameters and return type.*/
 #include<iostream>
 using namespace std;
 void rev(int n,int t)
