@@ -1,3 +1,4 @@
+//WAP to copy one string to another string without using string handling function and display copied function
 #include<iostream>
 #include<stdio.h>
 #include<string.h>
