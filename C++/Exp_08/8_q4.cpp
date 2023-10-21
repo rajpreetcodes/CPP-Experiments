@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    int a[100],n,i;
+    int a[100],n,i,*p;
     cout<<"How many numbers:";
     cin>>n;
     cout<<"Enter the numbers"<<endl;
