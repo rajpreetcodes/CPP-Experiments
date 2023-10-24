@@ -1,4 +1,4 @@
-//WAP to print string in reverse order using arrays
+//WAP to print string in reverse order using pointers
 #include<iostream>
 #include<stdio.h>
 #include<string.h>
